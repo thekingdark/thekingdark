@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarKing01
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning c language
+- 👀 I’m interested in Forensics 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on cyber security
 - 📫 How to reach me nivesh.dk01@gmail.com
 
