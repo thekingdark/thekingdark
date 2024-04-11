@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarKing01
-- 👀 I’m interested in Forensics 
+- 👀 I’m interested in Cyber Security 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on cyber security
+- 💞️ I’m looking to collaborate on back-end projects
 - 📫 How to reach me nivesh.dk01@gmail.com
 
 <!---
