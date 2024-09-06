@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DarKing01
 - 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on back-end projects
+- 🌱 I’m currently learning Python & DFIR
 - 📫 How to reach me nivesh.dk01@gmail.com
 
 <!---
