@@ -1,4 +1,4 @@
-# Hello, I'm Nivesh Kumar aka thekingdark
+# Hello, I'm Nivesh Kumar
 
 <a href="https://www.linkedin.com/in/nivesh-dk"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -12,9 +12,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Honeypot Deployment with T-Pot          | <a href="https://google.com">Honeypot Lab</a>|
-| Network Traffic Analysis and Reporting | <a href="https://google.com">Honeypot Lab</a>|
-| Incident Detection throught Honepot Integration | <a href="https://google.com">Honeypot Lab</a>|
+| Honeypot Deployment with T-Pot          | <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>|
+| Network Traffic Analysis and Reporting | <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>|
+| Incident Detection through Honepot Integration | <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -52,5 +52,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
-- Honeypot Lab
+- <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>
 - SOC Automation Project
