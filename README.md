@@ -12,13 +12,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Active Directory configuration and management         | <a href="https://github.com/thekingdark/Active-Directory-Project/tree/main">Active Directory Project</a>|
+| Attack simulation using Atomic Red Team      | <a href="https://github.com/thekingdark/Active-Directory-Project/tree/main">Active Directory Project</a>|
+| Centralized logging and analysis using Splunk                  | <a href="https://github.com/thekingdark/Active-Directory-Project/tree/main">Active Directory Project</a>|
 | Honeypot Deployment with T-Pot          | <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>|
-| Network Traffic Analysis and Reporting | <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>|
 | Incident Detection through Honepot Integration | <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Data Visualization and Querying using Kibana | <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>|
 
 ## Tools
 
@@ -52,5 +51,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
+- <a href="https://github.com/thekingdark/Active-Directory-Project/tree/main">Active Directory Project</a>
 - <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>
-- SOC Automation Project
