@@ -32,12 +32,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ELK%20Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### DFIR
 <div>
-    <img src="https://img.shields.io/badge/-FTK%20(Forensic%20Toolkit)-003366?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FTK%20Imager-003366?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Autopsy-1F456E?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Volatility-4B0082?&style=for-the-badge&logoColor=white" />
 </div>
