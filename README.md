@@ -10,14 +10,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Active Directory configuration and management         | <a href="https://github.com/thekingdark/Active-Directory-Project/tree/main">Active Directory Project</a>|
-| Attack simulation using Atomic Red Team      | <a href="https://github.com/thekingdark/Active-Directory-Project/tree/main">Active Directory Project</a>|
-| Centralized logging and analysis using Splunk                  | <a href="https://github.com/thekingdark/Active-Directory-Project/tree/main">Active Directory Project</a>|
-| Honeypot Deployment with T-Pot          | <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>|
+| Skill                                          | Associated Project         |
+|------------------------------------------------|----------------------------|
+| EDR Configuration and Management               | <a href="https://github.com/thekingdark/SOAR-EDR-Project/tree/main">SOAR EDR Project</a>|
+| SOAR Playbook Design and Automation            | <a href="https://github.com/thekingdark/SOAR-EDR-Project/tree/main">SOAR EDR Project</a>|
+| Automated Incident Response Workflows          | <a href="https://github.com/thekingdark/SOAR-EDR-Project/tree/main">SOAR EDR Project</a>|
+| Active Directory Configuration and Management  | <a href="https://github.com/thekingdark/Active-Directory-Project/tree/main">Active Directory Project</a>|
+| Attack Simulation using Atomic Red Team        | <a href="https://github.com/thekingdark/Active-Directory-Project/tree/main">Active Directory Project</a>|
+| Centralized Logging and Analysis using Splunk  | <a href="https://github.com/thekingdark/Active-Directory-Project/tree/main">Active Directory Project</a>|
+| Honeypot Deployment with T-Pot                 | <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>|
 | Incident Detection through Honepot Integration | <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>|
-| Data Visualization and Querying using Kibana | <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>|
 
 ## Tools
 
@@ -33,6 +35,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-ELK%20Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### EDR
+<div>
+    <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
 
 ### DFIR
@@ -51,5 +58,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
+- <a href="https://github.com/thekingdark/SOAR-EDR-Project/tree/main">SOAR EDR Project</a>
 - <a href="https://github.com/thekingdark/Active-Directory-Project/tree/main">Active Directory Project</a>
 - <a href="https://github.com/thekingdark/Honeypot-Lab/tree/main">Honeypot Lab</a>
